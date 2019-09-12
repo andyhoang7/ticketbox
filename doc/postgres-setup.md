@@ -18,9 +18,9 @@ export pass_of_user=your_password
 export name_of_database=your_db_name
 
 #psql  khoa is your username for psql, zzz is the password, the 2nd khoa is the name of db.
-export PSQL_USER='khoa' 
-export PSQL_PWD='zzz'
-export PSQL_DB='khoa'
+export PSQL_USER='thien' 
+export PSQL_PWD='qwerty'
+export PSQL_DB='thienticketbox'
 export PSQL_HOST='localhost'
 export PSQL_PORT=5432
 ```
